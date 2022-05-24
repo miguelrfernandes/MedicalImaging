@@ -1,0 +1,17 @@
+name: IMed
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - pip
+  - tqdm
+  - pip:      
+      - ipympl
+      - jupyterlab
+      - jupyterlab_code_formatter
+      - "ipython<7.17"
+      - scipy
+      - roipoly
+      - matplotlib
